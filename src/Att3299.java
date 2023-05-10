@@ -19,7 +19,7 @@ public class Att3299{
         if(String.valueOf(n).contains(String.valueOf(azar))){
             System.out.println(n + " es de Mala Suerte");
         }else{
-            System.out.println(n+" NO es de Mala Suerte");
+            System.out.println(n + " NO es de Mala Suerte");
         }
 
         ler.close();
